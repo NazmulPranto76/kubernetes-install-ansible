@@ -1,3 +1,0 @@
----
-selinux_config_file: /etc/selinux/config
-containerd_config_file: /etc/containerd/config.toml
